@@ -1,0 +1,6 @@
+C:\Users\SONY\source\repos\Procedure\Procedure\obj\Debug\Procedure.csproj.CoreCompileInputs.cache
+C:\Users\SONY\source\repos\Procedure\Procedure\bin\Debug\Procedure.exe.config
+C:\Users\SONY\source\repos\Procedure\Procedure\bin\Debug\Procedure.exe
+C:\Users\SONY\source\repos\Procedure\Procedure\bin\Debug\Procedure.pdb
+C:\Users\SONY\source\repos\Procedure\Procedure\obj\Debug\Procedure.exe
+C:\Users\SONY\source\repos\Procedure\Procedure\obj\Debug\Procedure.pdb
